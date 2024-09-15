@@ -113,17 +113,6 @@ VALUES ('Mike Johnson', '1995-07-12', 4444444444, 'mike.johnson@example.com', 'M
 
 select * from profile;
 
-select * from 
-
-
-
-
-CREATE TABLE customer_order (
-	oid int primary key auto_increment,
-    resturant_id 
-
-),
-
 
 
 
